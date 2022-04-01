@@ -333,7 +333,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myText: {fileID: 705192944}
-  deviceType: 1
+  deviceType: 0
   sensorTypePv: 0
   arUcoDictionaryName: 8
   markerSize: 0.1
