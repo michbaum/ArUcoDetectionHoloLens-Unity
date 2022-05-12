@@ -335,8 +335,8 @@ MonoBehaviour:
   myText: {fileID: 705192944}
   deviceType: 0
   sensorTypePv: 0
-  arUcoDictionaryName: 8
-  markerSize: 0.1
+  arUcoDictionaryName: 16
+  markerSize: 0.06
   calibParams: {fileID: 805832266}
   markerGo: {fileID: 519181811}
   skipFrames: 3
